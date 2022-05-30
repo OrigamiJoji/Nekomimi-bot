@@ -1,0 +1,13 @@
+{  
+ "token" : "[REDACTED]",
+ "master" : "[REDACTED]",
+ "botName" : "Nekomimi",
+ "activityType" : "WATCHING",
+ "activity" : "Nekopara",
+ "interface" : "[REDACTED]",
+ "modModule" : true,
+ "adminModule" : true,
+ "bashModule" : true,
+ "chatModule" : true,
+ "musicModule" : true
+}
